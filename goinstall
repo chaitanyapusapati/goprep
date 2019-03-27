@@ -1,0 +1,36 @@
+Here the steps to install GO
+
+STEP 1:- visit golang.org/dl
+
+     -> now select the version you want, 32bit or 64bit and also the type of 
+     operating system like WINDOWS,MAC,LINUX and dowanload it
+
+
+STEP 2:- now install the downladed file of go
+	
+	-> now the most important i want you to know is that to check whether
+	  you downloaded the correct file and make sure there is no man in 
+	  the middle or you didnt download a virus file 
+
+	-> so to chech that you have to run a command shaw
+
+STEP 3:- open bash and cd to documents
+STEP 4:- type command openssl shaw -shaw256 <filename>
+	
+	-> <filename> is the go file name you downloaded previously 
+	   now after you hit enter the command you'll get a checksum
+
+	-> check it with the one on the webpage you downloaded the go from 
+	   and it if its exact same you downloaded the exact file which 
+	   is inteded to download
+	
+	-> now that its downloaded ckeck if it works
+
+STEP 5:- open bash and type go env
+	
+	-> if you see the go variables it means that it works
+	-> you can run go version and help commands to check the version 
+	   and help to check the help tools.
+
+	   THANKYOU FOR VISITING, DONT COME AGAIN. 
+	   
