@@ -1,36 +1,36 @@
-Here are the steps to install GO
+Here Are The Steps To Install GO
 
-STEP 1:- visit golang.org/dl
+STEP 1:- Visit golang.org/dl
 
-     -> now select the version you want, 32bit or 64bit and also the type of 
-     operating system like WINDOWS,MAC,LINUX and dowanload it
+     -> Select the version you want, 32bit or 64bit and also the type of 
+     operating system like WINDOWS,MAC,LINUX and download it
 
 
-STEP 2:- now install the downladed file of go
+STEP 2:- Now install the downladed file of go
 	
-	-> now the most important i want you to know is that to check whether
-	  you downloaded the correct file and make sure there is no man in 
+	-> Now the most important thing I want you to know is that, To check whether
+	  you downloaded the correct file or not and make sure there is no man in 
 	  the middle or you didnt download a virus file 
 
-	-> so to chech that you have to run a command shaw
+	-> So to check that, you have to run a command "shaw"
 
-STEP 3:- open bash and cd to documents
-STEP 4:- type command openssl shaw -shaw256 <filename>
+STEP 3:- Open bash and goto documents folder using cd command.
+STEP 4:- Type command "openssl shaw -shaw256 <Filename>"
+
+	-> <Filename> is the go file name you downloaded previously 
+	   now after you hit enter the command, you'll get a checksum
+
+	-> Check it with the one on the webpage you downloaded the go from 
+	   and it if it is exact, you downloaded the correct file which 
+	   you intended to download
 	
-	-> <filename> is the go file name you downloaded previously 
-	   now after you hit enter the command you'll get a checksum
+	-> Now that its downloaded check whether it works or not
 
-	-> check it with the one on the webpage you downloaded the go from 
-	   and it if its exact same you downloaded the exact file which 
-	   is inteded to download
-	
-	-> now that its downloaded ckeck if it works
-
-STEP 5:- open bash and type go env
+STEP 5:- Open bash and type "go env"
 	
 	-> if you see the go variables it means that it works
-	-> you can run go version and help commands to check the version 
-	   and help to check the help tools.
+	-> you can run "go version" and "help" commands to check the version 
+	   and to check the help tools.
 
-	   THANKYOU FOR VISITING, DONT COME AGAIN. 
+	   THANKYOU FOR READING, NOW GO AND DOWNLOAD GO. 
 	   
