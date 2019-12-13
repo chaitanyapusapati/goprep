@@ -6,7 +6,7 @@ var x int
 var y string
 var z float64
 var a float32
-var b = true
+var b bool
 
 func main() {
 	printvalues()
@@ -16,12 +16,12 @@ func main() {
 	types()
 }
 func types() {
-	fmt.Println("\nLets see the types")
+	fmt.Println("\n   Lets see the types\n")
 	fmt.Printf("x is of type %T\n", x)
 	fmt.Printf("y is of type %T\n", y)
 	fmt.Printf("z is of type %T\n", z)
 	fmt.Printf("a is of type %T\n", a)
-	fmt.Println("b is of type %T", b)
+	fmt.Printf("b is of type %T\n", b)
 }
 func Assignvalues() {
 	fmt.Println("\n Assigning values")
@@ -29,6 +29,7 @@ func Assignvalues() {
 	y = "I am a String"
 	z = 2.123456789
 	a = 1.12345678
+	b = true
 
 }
 func printvalues() {
@@ -39,4 +40,6 @@ func printvalues() {
 	fmt.Println("Printing the value of z =", z)
 
 	fmt.Println("Printing the value of a =", a)
+
+	fmt.Println("Printing the value of b =", b)
 }
