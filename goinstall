@@ -2,8 +2,8 @@ Here Are The Steps To Install GO
 
 STEP 1:- Visit golang.org/dl
 
-     -> Select the version you want, 32bit or 64bit and also the type of 
-     operating system like WINDOWS,MAC,LINUX and download it
+     -> Select the version you want 32bit or 64bit, also the type of 
+     operating system like WINDOWS or MAC or LINUX and download it
 
 
 STEP 2:- Now install the downladed file of go
