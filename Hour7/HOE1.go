@@ -1,5 +1,5 @@
 // Hands-on exercise #2
-// Write a program that prints a number in decimal, binary, and hex
+// Write a program that prints a number in Decimal, Binary, and Hex
 package main
 
 import "fmt"
