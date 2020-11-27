@@ -16,8 +16,8 @@ This should already be done
 Now do this
 Now use CONVERSION to convert the TYPE of the VALUE stored in “x” to the UNDERLYING TYPE
 then use the “=” operator to ASSIGN that value to “y”
-	->print out the value stored in “y”
-	->print out the type of “y” */
+	->print the value stored in “y”
+	->print the type of “y” */
 package main
 
 import "fmt"
